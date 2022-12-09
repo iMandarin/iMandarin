@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imandarin&label=Profile%20views&color=0e75b6&style=flat" alt="imandarin" /> </p>
 
-- 🌱 I’m currently learning **DevOps and DSA**
+- 🌱 I’m currently learning **DevOps and DSA **
+- ❤️ Open Source | Learning in Public | Building in Public **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
